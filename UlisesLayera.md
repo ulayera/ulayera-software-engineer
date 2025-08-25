@@ -2,9 +2,9 @@
 ## Senior Software Engineer
 
 ### Contact Information
-- Email: [ulayera@gmail.com]
+- Email: [ulayera@gmail.com](mailto:ulayera@gmail.com)
 - LinkedIn: [linkedin.com/in/ulayera](https://linkedin.com/in/ulayera)
-- GitHub: [github.com/ulayera]
+- GitHub: [github.com/ulayera](https://github.com/ulayera)
 - Location: Chile
 
 ---
