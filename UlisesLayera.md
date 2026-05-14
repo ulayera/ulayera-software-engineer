@@ -5,13 +5,13 @@
 - Email: [ulayera@gmail.com](mailto:ulayera@gmail.com)
 - LinkedIn: [linkedin.com/in/ulayera](https://linkedin.com/in/ulayera)
 - GitHub: [github.com/ulayera](https://github.com/ulayera)
-- Location: Chile
+- Location: Chile (GMT -3/-4)
 
 ---
 
 ### Professional Summary
 
-Seasoned Software Engineer with over a decade of experience designing and optimizing complex, high-performance software solutions. His main experience has been in Java, using Spring Boot, Quarkus, as monolith or microservices, and cloud technologies (AWS) with proven track record in performance optimization and scalable architecture design. Currently leveraging AI tools (Cursor, Claude Code) to enhance development productivity and exploring AI/ML integration patterns for next-generation applications.
+Seasoned Software Engineer with over a decade of experience designing and optimizing complex, high-performance software solutions. His main experience has been in Java, using Spring Boot, Quarkus, as monolith or microservices, and cloud technologies (AWS) with proven track record in performance optimization and scalable architecture design. Currently leveraging AI tools (Harness Engineering and Spec-Driven Development) to enhance development productivity and exploring AI/ML integration patterns for next-generation applications.
 
 ---
 
@@ -26,6 +26,7 @@ Seasoned Software Engineer with over a decade of experience designing and optimi
 - **Testing:** JUnit, Mockito, Recordo, TestCafe, JMeter
 - **Tools:** Maven, Git, GitLab CI/CD, Kafka (ecosystem knowledge)
 - **Development:** IntelliJ, Cursor, Claude Code, MCP protocols like Puppeteer
+- **Agentic tools:** OpenSpec Spec Driven Development, Harness Engineering, Sub Agent specialization, Automated Testing
 
 **Certifications:**
 - Oracle Certified Professional, Java SE Programmer
@@ -39,11 +40,12 @@ Seasoned Software Engineer with over a decade of experience designing and optimi
 #### **Senior Backend Engineer** | Logicea
 *May 2023 - Present*
 
+- Built a low-cost ETL engine from scratch leveraging AWS Spot instances.
 - Improved a global media planning platform handling millions of TV spot transactions using **Spring Boot 3**, **Java 14**, and **microservices architecture**
 - Implemented advanced filtering algorithms and **parallel processing** techniques, reducing operation workload.
 - Integrated multiple external systems for media plan imports and ad play statistics, processing large-scale data efficiently
 - Applied **database query optimization** techniques including index tuning and query restructuring, reducing complex report generation
-- Enriched an Hotel RMS platform by creating new features, 
+- Enriched an Hotel RMS platform by creating new features.
 
 #### **Senior Software Engineer** | NewFire Global
 *January 2023 - May 2023*
